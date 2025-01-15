@@ -1,0 +1,8 @@
+{
+    "name": "[Your Name]",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+    "projects": [
+        { "name": "Project 1", "description": "Description of Project 1" },
+        { "name": "Project 2", "description": "Description of Project 2" }
+    ]
+}
